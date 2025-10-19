@@ -88,7 +88,7 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
   
   <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/fabian-cartes-48798638b/" target="_blank" style="display: flex; align-items: center;">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="25" height="25" alt="LinkedIn"/>
+      <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="25" height="25" alt="LinkedIn"/>
     </a>
     <a href="https://www.linkedin.com/in/fabian-cartes-48798638b/" target="_blank">
       Fabian Cartes
