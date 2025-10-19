@@ -2,10 +2,6 @@
 
 ### Estudiante de Ingeniería Civil en Informática | Desarrollador de Software en Formación
 
-<p align="left">
-  <img src="https://media.giphy.com/media/z3piCKkrQKl3ye9nSj/giphy.gif" width="200" />
-</p>
-
 Soy estudiante en la **Universidad del Bío-Bío** 🎓, apasionado por el desarrollo de software y la creación de soluciones revolucionarias. 
 
 Mi principal motivación es contribuir en proyectos que unan **tecnología, innovación y soluciones de impacto real**.
