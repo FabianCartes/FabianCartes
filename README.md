@@ -14,7 +14,7 @@ Mi principal motivación es contribuir en proyectos que unan **tecnología, inno
 * 🌱 Siempre estoy en modo de aprendizaje, buscando integrar nuevas tecnologías y metodologías.
 * 🎯 Mi objetivo: aportar valor y resolver problemas reales.
 
-<br> 🐾 Cuando no estoy programando, mi vida también es movida: soy "padre" de dos salchichas locos 🐶🐶 y una gata revoltosa 🐱. Además, soy un gran amante del mundo automotriz 🏎️ y me encontrarás activamente aprendiendo sobre mecánica en mi tiempo libre.
+<br> 🐾 Cuando no estoy programando, mi vida también es movida gracias a ser "padre" de dos salchichas locos 🐶🐶 y una gata revoltosa 🐱. Además, soy un gran amante del mundo automotriz 🏎️ y estoy activamente aprendiendo sobre mecánica en mi tiempo libre.
 
 ## 🎯 Áreas de Interés
 
