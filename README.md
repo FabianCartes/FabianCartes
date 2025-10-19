@@ -12,7 +12,8 @@ Mi principal motivación es contribuir en proyectos que unan **tecnología, inno
 
 * 💡 Me encanta transformar ideas complejas en software funcional y eficiente.
 * 🌱 Siempre estoy en modo de aprendizaje, buscando integrar nuevas tecnologías y metodologías.
-* 🎯 Mi objetivo: no solo crear código, sino aportar valor y resolver problemas reales.
+* 🎯 Mi objetivo: aportar valor y resolver problemas reales.
+* 🐾 Padre de dos salchichas locos y una gata revoltosa
 
 ## 🎯 Áreas de Interés
 
