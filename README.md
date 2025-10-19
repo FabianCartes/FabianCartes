@@ -84,17 +84,31 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 
 ¡Siempre estoy abierto a colaborar en proyectos interesantes!
 
-<p align="left">
-  <a href="httpsis://www.linkedin.com/in/fabian-cartes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<div style="display: flex; flex-direction: column; gap: 15px;">
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://www.linkedin.com/in/fabian-cartes-48798638b/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px;"/>
+    </a>
+    <a href="https://www.linkedin.com/in/fabian-cartes-48798638b/" target="_blank">
+      Fabian Cartes
+    </a>
+  </div>
   
-  <a href="mailto:fabian.cartes04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/fabian.cartes04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="mailto:fabian.cartes04@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 30px;"/>
+    </a>
+    <a href="mailto:fabian.cartes04@gmail.com" target="_blank">
+      fabian.cartes04@gmail.com
+    </a>
+  </div>
   
-  <a href="https://www.instagram.com/faabiaan/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-
-  </p>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://www.instagram.com/faabiaan/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height: 30px;"/>
+    </a>
+    <a href="https://www.instagram.com/faabiaan/" target="_blank">
+      faabiaan
+    </a>
+  </div>
+</div>
