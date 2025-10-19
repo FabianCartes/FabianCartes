@@ -114,13 +114,3 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
   </div>
 
 </div>
-  
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://www.instagram.com/faabiaan/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height: 30px;"/>
-    </a>
-    <a href="https://www.instagram.com/faabiaan/" target="_blank">
-      faabiaan
-    </a>
-  </div>
-</div>
