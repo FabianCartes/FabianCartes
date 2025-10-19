@@ -88,7 +88,7 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
   
   <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/fabian-cartes-48798638b/" target="_blank" style="display: flex; align-items: center;">
-      <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="25" height="25" alt="LinkedIn"/>
+      <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" alt="LinkedIn"/>
     </a>
     <a href="https://www.linkedin.com/in/fabian-cartes-48798638b/" target="_blank">
       Fabian Cartes
@@ -97,7 +97,7 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
   
   <div style="display: flex; align-items: center; gap: 10px;">
     <a href="mailto:fabian.cartes04@gmail.com" target="_blank" style="display: flex; align-items: center;">
-      <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="25" height="25" alt="Gmail"/>
+      <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" alt="Gmail"/>
     </a>
     <a href="mailto:fabian.cartes04@gmail.com" target="_blank">
       fabian.cartes04@gmail.com
@@ -106,7 +106,7 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
   
   <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://www.instagram.com/faabiaan/" target="_blank" style="display: flex; align-items: center;">
-      <img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="25" height="25" alt="Instagram"/>
+      <img src="https://skillicons.dev/icons?i=instagram" width="30" height="30" alt="Instagram"/>
     </a>
     <a href="https://www.instagram.com/faabiaan/" target="_blank">
       faabiaan
