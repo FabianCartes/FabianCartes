@@ -12,7 +12,6 @@ Mi principal motivación es contribuir en proyectos que unan **tecnología, inno
 
 * 💡 Me encanta transformar ideas complejas en software funcional y eficiente.
 * 🌱 Siempre estoy en modo de aprendizaje, buscando integrar nuevas tecnologías y metodologías.
-* 🤝 Disfruto del trabajo colaborativo y creo firmemente en el poder de un buen equipo.
 * 🎯 Mi objetivo: no solo crear código, sino aportar valor y resolver problemas reales.
 
 ## 🎯 Áreas de Interés
@@ -86,8 +85,16 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 ¡Siempre estoy abierto a colaborar en proyectos interesantes!
 
 <p align="left">
+  <a href="httpsis://www.linkedin.com/in/fabian-cartes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
   <a href="mailto:fabian.cartes04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/fabian.cartes04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  
+  <a href="https://www.instagram.com/faabiaan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
   </p>
