@@ -105,14 +105,6 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
       fabian.cartes04@gmail.com
     </a>
   </div>
-  
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://www.instagram.com/faabiaan/" target="_blank" style="display: flex; align-items: center;">
-      <img src="https://skillicons.dev/icons?i=instagram" width="30" height="30" alt="Instagram"/>
-    </a>
-    <a href="https://www.instagram.com/faabiaan/" target="_blank">
-      faabiaan
-    </a>
   </div>
 
 </div>
